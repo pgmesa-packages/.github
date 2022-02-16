@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-📦 The propuse of this organization is to store 'pgmesa' python packages, publicly available for the community on PyPI (https://pypi.org/user/pgmesa/) (pip). 
+📦 The propuse of this organization is to store 'pgmesa's python packages, publicly available for the community on PyPI (https://pypi.org/user/pgmesa/) (pip). 
 
 <!--
 
